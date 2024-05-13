@@ -1,0 +1,26 @@
+.main {
+
+    width: 255px;
+    height: 143px;
+    background-color: rgb(201, 66, 201);
+    border: none;
+    border-radius: 80px;
+    margin: auto;
+
+}
+
+
+.disBox {
+    font-weight: bold;
+    font-size: 40px;
+    margin: auto;
+    text-shadow: 10px, 10px, whitesmoke !important; 
+}
+
+
+.btnSRS:hover {
+    background-color: purple;
+    color: white;
+
+
+}
